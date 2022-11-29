@@ -1,2 +1,7 @@
-package FromAbstractToInterface;public class ArrayPrinter {
+package FromAbstractToInterface;
+
+import java.util.List;
+
+public abstract interface ArrayPrinter {
+     void print(List<Integer> integers);
 }

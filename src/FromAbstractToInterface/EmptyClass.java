@@ -1,2 +1,4 @@
-package FromAbstractToInterface;public class EmptyClass {
+package FromAbstractToInterface;
+
+public class EmptyClass {
 }

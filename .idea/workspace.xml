@@ -1,14 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0239e66-d870-44c9-af2d-dce832d79848" name="Changes" comment="" />
+    <list default="true" id="c0239e66-d870-44c9-af2d-dce832d79848" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_abstract.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract/ArrayPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract/AscendingArrayPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract/DescendingArrayPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromAbstractToInterface/ArrayPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromAbstractToInterface/AscendingArrayPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromAbstractToInterface/DescendingArrayPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromAbstractToInterface/EmptyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromAbstractToInterface/EvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromAbstractToInterface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoAbstract/ArrayPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoAbstract/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IDtmNNtepwjyni0ipBQ6AA5bbx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,9 +50,52 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.FromAbstractToInterface.Main">
+    <configuration name="FromAbstractToInterface.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromAbstractToInterface.Main" />
+      <module name="java_abstract" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FromAbstractToInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstract.Main" />
+      <module name="java_abstract" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Abstract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NoAbstract.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NoAbstract.Main" />
+      <module name="java_abstract" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FromAbstractToInterface.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.NoAbstract.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,7 +104,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669728142349</updated>
+      <workItem from="1669728143972" duration="6503000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
